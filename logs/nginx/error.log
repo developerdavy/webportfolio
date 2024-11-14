@@ -1,0 +1,1 @@
+2024/11/06 10:13:22 [error] 6117#0: *1 recv() failed (104: Connection reset by peer) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /wp-admin/ HTTP/1.1", upstream: "fastcgi://unix:/home/prince/.config/Local/run/kd8w4xsnP/php/php-fpm.socket:", host: "localhost:10018"

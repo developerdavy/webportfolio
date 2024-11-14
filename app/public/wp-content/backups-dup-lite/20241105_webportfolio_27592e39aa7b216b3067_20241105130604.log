@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: November 5, 2024 1:06 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.11.1
+WORDPRESS:	6.6.2
+PHP INFO:	8.1.29 | SAPI: fpm-fcgi
+SERVER:		nginx/1.16.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 10MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+TABLES: total:19 | filtered:0 | create:19
+FILTERED: []
+SQL CREATED: 20241105_webportfolio_27592e39aa7b216b3067_20241105130604_database.sql
+SQL FILE SIZE: 10.18MB (10672924)
+SQL FILE TIME: 2024-11-05 13:06:19
+SQL RUNTIME: 2.55 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /home/prince/Local Sites/webportfolio/app/public
+ARCHIVE FILE: 20241105_webportfolio_27592e39aa7b216b3067_20241105130604_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	173.65MB
+STATS:	Dirs 1,563 | Files 8,896
+SQL ADDED: 20241105_webportfolio_27592e39aa7b216b3067_20241105130604_database.sql
+ZipArchive Object
+(
+    [lastId] => 10458
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 10459
+    [filename] => /home/prince/Local Sites/webportfolio/app/public/wp-content/backups-dup-lite/tmp/20241105_webportfolio_27592e39aa7b216b3067_20241105130604_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 10458
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 60.22MB
+ARCHIVE RUNTIME: 44.34 sec.
+MEMORY STACK: 14MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 10.18MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 62.17MB 
+EXPECTED FILE/DIRECTORY COUNT: 10,459
+ACTUAL FILE/DIRECTORY COUNT: 10,458
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 49.77 sec.
+PEAK PHP MEMORY USED: 16MB
+DONE PROCESSING => 20241105_webportfolio November 5, 2024 1:07 pm
+

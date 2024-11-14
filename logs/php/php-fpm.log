@@ -1,0 +1,97 @@
+[04-Nov-2024 14:12:24] NOTICE: fpm is running, pid 9530
+[04-Nov-2024 14:12:24] NOTICE: ready to handle connections
+[05-Nov-2024 01:39:53] NOTICE: Terminating ...
+[05-Nov-2024 01:39:54] NOTICE: exiting, bye-bye!
+[05-Nov-2024 10:28:29] NOTICE: fpm is running, pid 5160
+[05-Nov-2024 10:28:29] NOTICE: ready to handle connections
+[05-Nov-2024 10:28:53] NOTICE: Terminating ...
+[05-Nov-2024 10:28:53] NOTICE: Terminating ...
+[05-Nov-2024 10:28:53] NOTICE: exiting, bye-bye!
+[05-Nov-2024 10:28:55] NOTICE: fpm is running, pid 5248
+[05-Nov-2024 10:28:55] NOTICE: ready to handle connections
+[05-Nov-2024 15:55:15] WARNING: [pool www] child 5255 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 15:55:15] WARNING: [pool www] child 5255 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 15:55:15] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 15:55:15] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 15:55:15] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 15:55:15] WARNING: [pool www] child 5255 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 15:55:15] WARNING: [pool www] child 5255 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 15:55:15] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 15:55:15] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 15:55:15] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 15:59:36] WARNING: [pool www] child 5255 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 15:59:36] WARNING: [pool www] child 5255 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 15:59:36] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 15:59:36] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 15:59:36] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:00:11] WARNING: [pool www] child 5256 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:00:11] WARNING: [pool www] child 5256 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:00:11] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:00:11] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:00:11] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:00:11] WARNING: [pool www] child 5256 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:00:11] WARNING: [pool www] child 5256 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:00:11] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:00:11] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:00:11] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:00:17] WARNING: [pool www] child 5255 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:00:17] WARNING: [pool www] child 5255 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:00:17] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:00:17] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:00:17] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:00:46] WARNING: [pool www] child 5255 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:00:46] WARNING: [pool www] child 5255 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:00:46] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:00:46] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:00:46] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:00:46] WARNING: [pool www] child 5255 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:00:46] WARNING: [pool www] child 5255 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:00:46] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:00:46] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:00:46] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:03:15] WARNING: [pool www] child 5256 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:03:15] WARNING: [pool www] child 5256 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:03:15] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:03:15] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:03:15] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:03:25] WARNING: [pool www] child 5255 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:03:25] WARNING: [pool www] child 5255 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:03:25] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:03:25] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:03:25] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:06:04] WARNING: [pool www] child 5255 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:06:04] WARNING: [pool www] child 5255 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:06:04] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:06:04] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:06:04] WARNING: [pool www] child 5255 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:06:07] WARNING: [pool www] child 5256 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:06:07] WARNING: [pool www] child 5256 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:06:07] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:06:07] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:06:07] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:06:16] WARNING: [pool www] child 5256 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:06:16] WARNING: [pool www] child 5256 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:06:16] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:06:16] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:06:16] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:06:16] WARNING: [pool www] child 5256 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:06:16] WARNING: [pool www] child 5256 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:06:16] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:06:16] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:06:16] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:07:04] WARNING: [pool www] child 5256 said into stderr: "sh: 1: --help: not found"
+[05-Nov-2024 16:07:04] WARNING: [pool www] child 5256 said into stderr: "sh: 1: mysqldump: not found"
+[05-Nov-2024 16:07:04] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[05-Nov-2024 16:07:04] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:07:04] WARNING: [pool www] child 5256 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[05-Nov-2024 16:17:56] NOTICE: Terminating ...
+[05-Nov-2024 16:17:56] NOTICE: exiting, bye-bye!
+[06-Nov-2024 10:13:00] NOTICE: fpm is running, pid 6111
+[06-Nov-2024 10:13:00] NOTICE: ready to handle connections
+[06-Nov-2024 10:13:22] NOTICE: Terminating ...
+[06-Nov-2024 10:13:22] NOTICE: Terminating ...
+[06-Nov-2024 10:13:22] NOTICE: exiting, bye-bye!
+[06-Nov-2024 10:13:24] NOTICE: fpm is running, pid 6249
+[06-Nov-2024 10:13:24] NOTICE: ready to handle connections
+[06-Nov-2024 13:02:22] NOTICE: Terminating ...
+[06-Nov-2024 13:02:22] NOTICE: exiting, bye-bye!
